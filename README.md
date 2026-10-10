@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/gh/stardustxx/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](<LINK>)
+[![<ORG_NAME>](https://circleci.com/gh/sdusteric/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
